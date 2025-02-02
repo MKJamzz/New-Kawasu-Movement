@@ -1,0 +1,3 @@
+git rm -r --cached Library/PackageCache/
+git commit -m "Removed PackageCache from tracking"
+git push origin main
